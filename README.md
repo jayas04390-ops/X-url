@@ -12,12 +12,11 @@ You give X-url a website URL.
 
 ![X-url Screenshot](image/X-url-ss.png)
 
-
 ## 🎥 X-url Demo
 
-This demo shows X-url analyzing a website URL, checking security headers, and displaying VirusTotal threat-intelligence results.
+This video demonstrates the X-url website security analysis workflow.
 
-![](image/DEMO.mp4)
+[▶️ Watch the X-url Demo](image/DEMO.mp4)
 
 To use : Install the project as a zip then extract and open on vs code or any environment
 
