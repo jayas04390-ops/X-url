@@ -8,8 +8,6 @@ The main goal of X-url is to help developers and security learners quickly under
 
 ---
 
-## What does X-url do?
-
 You give X-url a website URL.
 
 ![X-url Screenshot](image/X-url-ss.png)
