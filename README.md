@@ -14,7 +14,9 @@ You give X-url a website URL.
 
 ![X-url Screenshot](image/X-url-ss.png)
 
-Install the requirements
+To use : Install the project as a zip then extract and open on vs code or any environment
+
+Install the requirements:
 
            python -r install requirements.txt
 
