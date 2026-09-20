@@ -12,7 +12,7 @@ The main goal of X-url is to help developers and security learners quickly under
 
 You give X-url a website URL.
 
-                             ![X-url Screenshot](image/X-url-ss.png)
+![X-url Screenshot](image/X-url-ss.png)
 
 Terminal 1: backend
 
