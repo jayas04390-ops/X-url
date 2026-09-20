@@ -18,6 +18,17 @@ This video demonstrates the X-url website security analysis workflow.
 
 [▶️ Watch the X-url Demo](image/DEMO.mp4)
 
+
+Manually set the api
+    -------------------------------------------------------------------------------------------------------------------------
+   | API                          | What X-url uses it for                                                | Needed?          |
+   | ---------------------------- | --------------------------------------------------------------------- | ---------------  |
+   | **VirusTotal API**           | Checks the submitted URL against security vendors/threat intelligence | ✅ Already using |
+   | **urlscan.io API**           | Dynamic webpage scan, redirects, contacted domains/IPs, screenshots   | ⭐ Good addition |
+   | **Google Safe Browsing API** | Checks URLs against Google's Safe Browsing lists                      | ⭐ Good addition |
+   | **No API**                   | HTTP security-header analysis                                         | ✅ Already built |
+   ---------------------------------------------------------------------------------------------------------------------------
+
 To use : Install the project as a zip then extract and open on vs code or any environment
 
 Install the requirements:
