@@ -14,6 +14,10 @@ You give X-url a website URL.
 
 ![X-url Screenshot](image/X-url-ss.png)
 
+Install the requirements
+
+           python -r install requirements.txt
+
 Terminal 1: backend
 
               python -m uvicorn main:app --reload
